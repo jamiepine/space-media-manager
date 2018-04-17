@@ -1,0 +1,27 @@
+# Build and Release Folders
+dist/
+dev/
+
+# Node Modules
+node_modules/
+
+# Other files and folders
+.DS_Store
+.awcache
+.idea/
+.vs/
+.eslintcache
+
+# Executables
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+
+#files
+*.tgz
+*.log
+
+npm-debug.log
+yarn-error.log
+

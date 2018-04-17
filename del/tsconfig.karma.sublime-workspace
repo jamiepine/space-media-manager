@@ -1,0 +1,556 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"csrf",
+				"csrf-token"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"v",
+				"var"
+			],
+			[
+				"pr",
+				"prevent"
+			],
+			[
+				"tag",
+				"tagName"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"g",
+				"_GET"
+			],
+			[
+				"if",
+				"if?\t$… = ( … ) ? … : …"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"te",
+				"text-shadow"
+			],
+			[
+				"backgo",
+				"background"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"backg",
+				"background-origin"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"com",
+				"community"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"cla",
+				"class_exists"
+			],
+			[
+				"cl",
+				"class\tclass …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"da ui",
+				"DA UI: General Settings"
+			],
+			[
+				"di",
+				"DA UI: Select Accent"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"prv ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"com",
+				"Toggle Block Comment"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 353.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jamiepine/Sites/dev/electron/spacemediamanager/src/app/app.component.ts",
+		"/Users/jamiepine/Sites/dev/space/resources/assets/sass/global.scss",
+		"/Users/jamiepine/Sites/dev/space/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/jamiepine/Sites/dev/space/resources/views/auth/login.blade.php",
+		"/Users/jamiepine/Sites/dev/space/resources/views/app/footer.blade.php",
+		"/Users/jamiepine/Sites/dev/space/.env",
+		"/Users/jamiepine/Sites/dev/space/resources/views/app/header.blade.php",
+		"/Users/jamiepine/Sites/dev/space/database/migrations/2018_01_24_114550_CreateUpdatesTable.php",
+		"/Users/jamiepine/Sites/dev/space/app/updates.php",
+		"/Users/jamiepine/Sites/dev/space/public/css/style.css",
+		"/Users/jamiepine/Sites/dev/space/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/Users/jamiepine/Sites/dev/space/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/jamiepine/Sites/dev/space/resources/views/accounting/transactions.blade.php",
+		"/Users/jamiepine/Sites/dev/space/routes/web.php",
+		"/Users/jamiepine/Sites/dev/space/resources/views/accounting/app.blade.php",
+		"/Users/jamiepine/Documents/GitHub/EasyAJAX-jQuery-Plugin/jquery.ajaxpost.js",
+		"/Users/jamiepine/Documents/GitHub/EasyAJAX-jQuery-Plugin/README.md",
+		"/Users/jamiepine/Sites/dev/space/app/Http/Controllers/TransactionsController.php",
+		"/Users/jamiepine/Sites/dev/space/public/js/jquery.ajaxpost.js",
+		"/Users/jamiepine/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+		"/Users/jamiepine/Documents/GitHub/jQuery-Easy-AJAX-Post-Plugin/jquery.ajaxpost.js",
+		"/Users/jamiepine/Documents/GitHub/jQuery-Easy-AJAX-Post-Plugin/README.md",
+		"/Users/jamiepine/Sites/dev/space/resources/views/accounting/untitled.blade",
+		"/Users/jamiepine/Sites/dev/space/app/Http/Controllers/accountsController2.php",
+		"/Users/jamiepine/Sites/dev/space/resources/views/app.blade.php",
+		"/Users/jamiepine/Sites/dev/space/public/js/jquery.jscroll.js",
+		"/Users/jamiepine/Sites/dev/space/resources/views/nav.blade.php",
+		"/Users/jamiepine/Sites/dev/space/app/Http/Controllers/loadController.php",
+		"/Users/jamiepine/Sites/Space/efg5h657/load.js",
+		"/Users/jamiepine/Sites/dev/space/package.json",
+		"/Users/jamiepine/Sites/dev/space/gulpfile.js",
+		"/Users/jamiepine/Sites/dev/space/app/Http/Controllers/accountsController.php",
+		"/Users/jamiepine/Sites/dev/space/app/accountingTransactions.php",
+		"/Users/jamiepine/Sites/dev/space/app/accountsTransactions.php",
+		"/Users/jamiepine/Sites/dev/space/resources/assets/sass/app.scss",
+		"/Users/jamiepine/Sites/dev/space/database/migrations/2018_01_20_104129_accountingTransactions.php",
+		"/Users/jamiepine/Sites/dev/space/app/Http/Controllers/Controller.php",
+		"/Users/jamiepine/Sites/dev/space/resources/views/sidebar.blade.php",
+		"/Users/jamiepine/Sites/dev/space/database/migrations/2018_01_20_083157_updates.php",
+		"/Users/jamiepine/Sites/dev/space/public/css/accounting.css",
+		"/Users/jamiepine/Sites/dev/space/resources/views/layouts/app.blade.php",
+		"/Users/jamiepine/Sites/dev/space/resources/views/auth/register.blade.php",
+		"/Users/jamiepine/Sites/dev/space/resources/assets/js/app.js",
+		"/Users/jamiepine/Sites/dev/space/resources/views/accounting.blade.php",
+		"/Users/jamiepine/Sites/dev/space/app/Http/Controllers/JamieController.php",
+		"/Users/jamiepine/Sites/dev/space/app/Http/Controllers/ajaxLoadController.php",
+		"/Users/jamiepine/Sites/dev/space/resources/views/feed.blade.php",
+		"/Users/jamiepine/Sites/dev/space/database/factories/ModelFactory.php",
+		"/Users/jamiepine/Sites/dev/space/app/User.php",
+		"/Users/jamiepine/Sites/dev/space/app/Http/Controllers/FeedController.php",
+		"/Users/jamiepine/Sites/dev/space/resources/views/landing.blade.php",
+		"/Users/jamiepine/Sites/dev/space/app/Providers/AppServiceProvider.php",
+		"/Users/jamiepine/Sites/dev/space/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/jamiepine/Sites/dev/space/database/migrations/2018_01_19_101836_addUserStatusColumn.php",
+		"/Users/jamiepine/Sites/dev/space/app/Http/Controllers/HomeController.php",
+		"/Users/jamiepine/Sites/dev/space/resources/assets/sass/layout.scss",
+		"/Users/jamiepine/Sites/Space/efg5h657/load.php",
+		"/Users/jamiepine/Sites/dev/space/app/Console/Commands/jeff.php",
+		"/Users/jamiepine/Sites/dev/space/resources/views/welcome.blade.php",
+		"/Volumes/Jamie/sites/space/site/load.php",
+		"/Users/jamiepine/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Mariana.tmTheme",
+		"/Volumes/Jamie/sites/space/efg5h657/includes/dummy.php",
+		"/Volumes/Jamie/sites/space/efg5h657/includes/templates/profile.php",
+		"/Volumes/Jamie/sites/space/efg5h657/landing.php",
+		"/Volumes/Jamie/sites/space/efg5h657/tour.php",
+		"/Volumes/Jamie/sites/space/efg5h657/library/js/tour.js",
+		"/Volumes/Jamie/sites/space/efg5h657/load.php",
+		"/Volumes/Jamie/sites/space/efg5h657/footer.php",
+		"/Volumes/Jamie/sites/space/efg5h657/header.php",
+		"/Volumes/Jamie/sites/space/efg5h657/includes/widgets/voice.php",
+		"/Volumes/Jamie/sites/space/efg5h657/includes/templates/profile_sidebar.php",
+		"/Volumes/Jamie/sites/space/efg5h657/library/js/script.js",
+		"/Volumes/Jamie/sites/space/efg5h657/load.js",
+		"/Volumes/Jamie/sites/space/efg5h657/includes/templates/feed.php",
+		"/Volumes/Jamie/sites/space/efg5h657/includes/functions.php",
+		"/Volumes/Jamie/sites/space/efg5h657/includes/updates/update.php",
+		"/Volumes/Jamie/sites/space/efg5h657/navigation.php",
+		"/Volumes/Jamie/sites/space/efg5h657/index.php",
+		"/Volumes/Jamie/sites/space/efg5h657/includes/templates/profile copy.php",
+		"/Volumes/Jamie/sites/space/efg5h657/includes/templates/updatesMarkup.php",
+		"/Volumes/Jamie/sites/space/site/landing.php",
+		"/Volumes/Jamie/sites/space/site/includes/templates/feed.php",
+		"/Volumes/Jamie/sites/space/site/header.php",
+		"/Volumes/Jamie/sites/space/site/includes/templates/community.php",
+		"/Volumes/Jamie/sites/space/site/includes/updates/update.php",
+		"/Volumes/Jamie/sites/space/site/index.php",
+		"/Volumes/Jamie-2/sites/space/site/load.js",
+		"/Volumes/Jamie/sites/space/site/library/css/themes/dark.css",
+		"/Volumes/Jamie-2/sites/space/site/library/css/themes/dark.css",
+		"/Volumes/Jamie-2/sites/space/site/includes/templates/community.php",
+		"/Volumes/Jamie-2/sites/space/site/includes/templates/profile.php",
+		"/Volumes/Jamie-2/sites/space/site/landing.php",
+		"/Volumes/Jamie-2/sites/space/site/navigation.php",
+		"/Volumes/Jamie-2/sites/space/site/header.php",
+		"/Volumes/Jamie-2/sites/space/site/library/js/script.js",
+		"/Volumes/Jamie-2/sites/space/site/includes/templates/feed.php",
+		"/Volumes/Jamie-2/sites/space/site/index.php",
+		"/Volumes/Jamie-2/sites/space/library/css/themes/dark.css",
+		"/Volumes/Jamie-2/sites/space/library/js/script.js",
+		"/Volumes/Jamie-2/sites/space/load.php",
+		"/Volumes/Jamie-2/sites/space/index.php",
+		"/Volumes/Jamie-2/sites/space/header.php",
+		"/Volumes/Jamie-2/sites/space/dump.txt",
+		"/Volumes/Jamie-1/sites/space/jeff/includes/js/console.js",
+		"/Volumes/Jamie-2/sites/space/includes/templates/profile.php",
+		"/Volumes/Jamie-2/sites/space/load.js",
+		"/Volumes/Jamie-2/sites/space/library/css/style.css",
+		"/Volumes/Jamie-1/sites/space/load.php",
+		"/Volumes/Jamie-1/sites/space/library/css/style.css",
+		"/Volumes/Jamie-2/sites/space/library/css/dark_theme.css",
+		"/Volumes/Jamie-1/sites/space/library/css/dark_theme.css",
+		"/Volumes/Jamie-1/sites/space/index.php",
+		"/Volumes/Jamie-1/sites/space/header.php",
+		"/Volumes/Jamie-1/sites/space/load.js",
+		"/Volumes/Jamie-1/sites/space/tour.php",
+		"/Volumes/Jamie-1/sites/space/library/js/script.js",
+		"/Volumes/Jamie-1/sites/space/library/js/load.js",
+		"/Volumes/Jamie-1/sites/space/footer.php",
+		"/Volumes/Jamie-1/sites/space/includes/widgets/widget.php",
+		"/Volumes/Jamie-1/sites/space/profile.php",
+		"/Volumes/Jamie-1/sites/space/library/css/tour.css",
+		"/Users/jamiepine/Sites/dev/wp-content/plugins/SpaceMediaManager/cheatsheet.php",
+		"/Users/jamiepine/Sites/dev/tour.php",
+		"/Users/jamiepine/Sites/dev/footer.php",
+		"/Users/jamiepine/Sites/dev/index.php",
+		"/Users/jamiepine/Sites/dev/community.php",
+		"/Users/jamiepine/Sites/dev/library/js/script.js",
+		"/Users/jamiepine/Sites/dev/library/css/tour.css"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.commandbox_output":
+	{
+		"height": 213.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tsconfig.karma.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

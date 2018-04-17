@@ -1,0 +1,62 @@
+<div id="chromebar"> 
+
+  <div class="chromebar_version">ALPHA 0.3.2</div>
+</div>  
+
+<div id="sidebar">
+  
+  <ul class="sidebar_menu mainnav">
+
+    <a [routerLink]=" ['./home'] "
+        routerLinkActive="active" [routerLinkActiveOptions]= "{exact: true}">
+    <li class="sidebar_menu_item"><i class="fas fa-home"></i></li>
+    </a>
+
+    <li class="sidebar_menu_item"><i class="fas fa-rocket"></i></li>
+    <li class="sidebar_menu_item"><i class="fas fa-newspaper"></i></li>
+
+    <a [routerLink]=" ['./media'] "
+        routerLinkActive="active" [routerLinkActiveOptions]= "{exact: true}">
+    <li class="sidebar_menu_item selected"><i class="fas fa-images"></i></li>
+    </a>
+
+    <li class="sidebar_menu_item"><i class="fas fa-envelope"></i></li>
+  </ul>
+
+
+</div>
+
+
+<!--   <nav>
+      <a [routerLink]=" ['./'] "
+        routerLinkActive="active" [routerLinkActiveOptions]= "{exact: true}">
+        Index
+      </a>
+      <a [routerLink]=" ['./home'] "
+        routerLinkActive="active" [routerLinkActiveOptions]= "{exact: true}">
+        Home
+      </a>
+      <a [routerLink]=" ['./detail'] "
+        routerLinkActive="active" [routerLinkActiveOptions]= "{exact: true}">
+        Detail
+      </a>
+      <a [routerLink]=" ['./barrel'] "
+        routerLinkActive="active" [routerLinkActiveOptions]= "{exact: true}">
+        Barrel
+      </a>
+      <a [routerLink]=" ['./about'] "
+        routerLinkActive="active" [routerLinkActiveOptions]= "{exact: true}">
+        About
+      </a>
+    </nav> -->
+
+    <main>
+      <router-outlet></router-outlet>
+    </main>
+
+  <!--   <pre class="app-state">this.state$ = {{ state$ | async | json }}</pre> -->
+
+    <footer>
+  
+
+    </footer>

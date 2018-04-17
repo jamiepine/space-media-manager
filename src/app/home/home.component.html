@@ -1,0 +1,35 @@
+<div>
+  <!-- <h1 x-large class="sample-content">My name jeff</h1> -->
+
+
+
+  <div class="content">
+
+<br/>
+
+      <div class="form-group">
+        <input [value]="localState.value" (input)="localState.value = $event.target.value" autofocus type="email" class="form-control" id="exampleFormControlInput1" placeholder="Search">
+      </div>
+
+    
+    <button (click)="selectFile()" id="selectFileButton" type="button" class="btn btn-light">Select Folder</button>
+    <input onchange="console.log('jeff')" id="selectFile" type="file" style="display: none" webkitdirectory />
+    <button (click)="listDir()" type="button" class="btn btn-light">Render Images</button>
+    <button (click)="showDialog()" type="button" class="btn btn-light">Show Dialog</button>
+    
+    <p></p>
+
+
+
+    
+<!--         <input type="text" [value]="localState.value" (input)="localState.value = $event.target.value" autofocus>
+        Rather than wiring up two-way data-binding ourselves with [value] and (input)
+        we can use Angular's [(ngModel)] syntax
+        <input type="text" name="textInput" [(ngModel)]="localState.value" autofocus> -->
+      
+
+    <!-- <pre>this.localState = {{ localState | json }}</pre> -->
+
+  </div><!-- Content -->
+
+</div>

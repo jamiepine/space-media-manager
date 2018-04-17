@@ -1,0 +1,143 @@
+/* this file will be extracted to main dist folder and is imported in index.html */
+/* This file is for setting global styles  */
+@import 'variables';
+
+body, html {
+    margin: 0px;
+    padding: 0px;
+    background: #F8F8F8;
+}
+
+nav {
+  margin-top: 16px;
+}
+
+#sidebar {
+    width: 67px;
+    height: 100vh;
+    float: left;
+    position: fixed;
+    border-right: 1px solid #efefef;
+    background: #fff;
+}
+
+#sidebar ul {
+    list-style: none;
+    padding: 0px;
+    margin: 23px 0px 0px 0px;
+}
+
+#sidebar ul li {
+    padding: 5px 24px;
+    color: #cccccc;
+    /* border-bottom: 1px solid #080808; */
+    cursor: pointer;
+    // transition: 0.5s;
+}
+
+#sidebar ul .active li {
+    border-left: 3px solid #7cc5da;
+    border-radius: 3px;
+    padding-left: 21px;
+    color: #929292;
+    background: #FDFDFD;
+}
+
+#sidebar ul li:hover {
+    color: #686868;
+}
+
+#chromebar {
+    width: 100%;
+    display: inline-block;
+    height: 28px;
+    -webkit-user-select: none;
+    -webkit-app-region: drag;
+    position: fixed;
+    z-index: 99z;
+}
+
+.chromebar_version {
+  font-size: 10px;
+  text-align: right;
+  color: #a2a2a2;
+  float: right;
+  padding: 6px;
+}
+
+.image_thumb {
+  display: inline-block;
+  position: relative;
+  float: left;
+  padding: 1px;
+}
+
+#display-files {
+  margin-left: -10px;
+  padding-top: 47px;
+}
+
+.media_nav {
+  z-index: 9999;
+  position: fixed;
+  padding-top: 10px;
+}
+
+// ******************************
+// Bootstrap Arguments
+
+// BUTTON STYLES
+.btn-group .btn {
+  font-size: 11px;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-bottom: -3px;
+
+  background-color: #fff; 
+  color: #B6B6B6;
+  border: solid 1px #efefef;
+  box-shadow: 1px 1px 1px #F7F7F7;
+}
+
+.btn {
+  font-weight: bold;
+  font-size: 11px;
+}
+
+.btn-primary {
+  // color: ;
+}
+
+.btn-light {
+  background-color: #fff; 
+  color: #7F7F7F;
+  border: solid 1px #efefef;
+}
+.btn-light:hover {
+  background-color: #fff; 
+  color: #3A3A3A;
+  border: solid 1px #A5A5A5;
+  box-shadow: 1px 1px 1px #F7F7F7;
+}
+
+input {
+  border: solid 1px #efefef !important;
+  color: #efefef !important;
+}
+
+
+main {
+  margin: 0px 8px 0 78px;
+}
+
+nav a {
+  background-color: $nav-button-color;
+  color: white;
+  padding: 8px 16px;
+  margin: 8px;
+  vertical-align: middle;
+  line-height: 1.25;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 4px;
+}

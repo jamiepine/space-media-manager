@@ -1,0 +1,17 @@
+  <div class="content">
+
+
+<div class="media_nav">
+    <div class="btn-group" role="group" aria-label="Basic example">
+      <button (click)="listDir()" type="button" class="btn btn-secondary"><i class="fas fa-image"></i></button>
+      <button (click)="selectFile()" type="button" class="btn btn-secondary"><i class="fas fa-th-large"></i></button>
+      <button (click)="showDialog()" type="button" class="btn btn-secondary"><i class="fas fa-align-justify"></i></button>
+    </div>
+    <input onchange="console.log('jeff')" id="selectFile" type="file" style="display: none" webkitdirectory />
+    <p></p>
+</div>
+
+
+    <div id="display-files"></div>
+
+  </div><!-- Content -->
