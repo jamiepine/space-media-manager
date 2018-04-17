@@ -25,6 +25,8 @@ const SpecifyTsFilesPlugin = require('./specify-ts-files-plugin');
 
 // const { TsConfigPathsPlugin } = require('awesome-typescript-loader');
 // const TsConfigPathsPlugin = require('awesome-typescript-loader').TsConfigPathsPlugin;
+const { TsConfigPathsPlugin } = require('awesome-typescript-loader');
+const path = require('path');
 
 /*
  * Webpack Constants
@@ -102,9 +104,15 @@ module.exports = function (options) {
 
      // modules: [ 'node_modules', 'app', 'app/models', 'app/components', 'app/lib' ],
 
-      // alias: {
-      //       '@space/home': resolve('src/app/home')
-      //   }
+      alias: {
+            Home: path.resolve(__dirname, 'src/app/home/')
+            // '@space/home': resolve('app/home'),
+            // '@space/home': path.join(__dirname, '../_global')
+        },
+
+      plugins: [
+        new TsConfigPathsPlugin(/* { tsconfig, compiler } */)
+      ],
       
     },
 

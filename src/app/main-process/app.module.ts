@@ -44,17 +44,17 @@ import { APP_RESOLVER_PROVIDERS } from './app.resolver';
 import { NoContentComponent } from '../no-content';
 import { XLargeDirective } from '../home/x-large';
 
-import { HomeComponent } from '../home';
+import { HomeComponent } from 'Home';
 import { AboutComponent } from '../about';
 import { MediaComponent } from '../media';
 // import { SettingsComponent } from '../settings';
-
+ 
 /*
 * IMPORT STYLES
 */
-import '../assets/css/bootstrap.css';
-import '../styles/styles.scss';
-import '../styles/headings.css';
+// import '../assets/css/bootstrap.css';
+// import '../styles/styles.scss';
+// import '../styles/headings.css';
 
 
 declare const ENV: string;
