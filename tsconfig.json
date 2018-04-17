@@ -6,11 +6,6 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "allowSyntheticDefaultImports": true,
-    "baseUrl": "src",
-    "paths": {
-        "home/*": [ "app/home/*" ],
-    },
-    "sourceMap": true,
     "noEmit": true,
     "noEmitHelpers": true,
     "importHelpers": true,
@@ -31,6 +26,10 @@
       "webdriverio",
       "webpack"
     ]
+  },
+  "baseUrl": "",
+  "paths": {
+    "Home": ["./src/app/home/"]
   },
   "exclude": [
     "node_modules",

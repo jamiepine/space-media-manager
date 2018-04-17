@@ -102,16 +102,21 @@ module.exports = function (options) {
       // An array of directory names to be resolved to the current directory
        modules: [helpers.root('src'), helpers.root('node_modules')],
 
-     // modules: [ 'node_modules', 'app', 'app/models', 'app/components', 'app/lib' ],
 
+      // RESOLVE ALIAS 
       alias: {
-            Home: path.resolve(__dirname, 'src/app/home/')
+
+          Home: 'app/home'
+
             // '@space/home': resolve('app/home'),
             // '@space/home': path.join(__dirname, '../_global')
         },
 
       plugins: [
-        new TsConfigPathsPlugin(/* { tsconfig, compiler } */)
+        new TsConfigPathsPlugin({
+                configFileName: "tsconfig.webpack.json",
+                compiler: "typescript"   
+            })
       ],
       
     },

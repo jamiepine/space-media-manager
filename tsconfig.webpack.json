@@ -8,6 +8,7 @@
     "allowSyntheticDefaultImports": true,
     "sourceMap": true,
     "noEmit": true,
+    "removeComments": false,
     "noEmitHelpers": true,
     "importHelpers": true,
     "strictNullChecks": false,
@@ -23,6 +24,14 @@
       "hammerjs",
       "node"
     ]
+
+  },
+  "baseUrl": "./src",
+  "rootDirs": [
+      "./src",
+      "./config"
+    ],
+  "paths": {
 
   },
   "awesomeTypescriptLoaderOptions": {

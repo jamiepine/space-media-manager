@@ -70,7 +70,8 @@
     "angular-ui-bootstrap": "^2.5.6",
     "electron-devtools-installer": "^2.2.0",
     "rxjs": "~5.4.0",
-    "sqlite3": "^3.1.13"
+    "sqlite3": "^3.1.13",
+    "ts-loader": "^3.5.0"
   },
   "devDependencies": {
     "@angular/animations": "~4.4.3",
@@ -163,7 +164,7 @@
     "to-string-loader": "^1.1.5",
     "ts-helpers": "1.1.2",
     "ts-node": "^3.0.6",
-            "tsconfig-paths-webpack-plugin": "^3.0.3",
+    "tsconfig-paths-webpack-plugin": "^3.0.3",
     "tslib": "^1.7.1",
     "tslint": "~5.7.0",
     "tslint-loader": "^3.5.3",
@@ -171,7 +172,7 @@
     "typescript": "~2.5.2",
     "url-loader": "^0.5.8",
     "v8-lazy-parse-webpack-plugin": "^0.3.0",
-    "webpack": "~3.6.0",
+    "webpack": "^3.6.0",
     "webpack-dev-middleware": "^1.10.2",
     "webpack-dll-bundles-plugin": "^1.0.0-beta.5",
     "webpack-hot-middleware": "^2.18.0",

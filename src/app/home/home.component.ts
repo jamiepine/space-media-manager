@@ -12,6 +12,7 @@ import { Title } from './title';
 import { XLargeDirective } from './x-large';
 
 const fs = require("fs");
+const path = require('path');
 
 @Component({
   // The selector is what angular internally uses
@@ -38,6 +39,9 @@ export class HomeComponent implements OnInit {
 
   public ngOnInit() {
     console.log('hello `Home` component');
+
+    var jeff = path.resolve(__dirname, 'src/app/home/')
+    console.log(jeff)
     // this.title.getData().subscribe(data => this.data = data);
   }
 
