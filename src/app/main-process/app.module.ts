@@ -41,20 +41,23 @@ import { APP_RESOLVER_PROVIDERS } from './app.resolver';
 /*
 * IMPORT COMPONENTS
 */
-import { NoContentComponent } from '../no-content';
-import { XLargeDirective } from '../home/x-large';
+import { NoContentComponent } from '@space/no-content';
+import { XLargeDirective } from '@space/home/x-large';
 
-import { HomeComponent } from 'Home';
-import { AboutComponent } from '../about';
-import { MediaComponent } from '../media';
+import { HomeComponent } from '@space/home';
+import { AboutComponent } from '@space/about';
+import { MediaComponent } from '@space/media';
 // import { SettingsComponent } from '../settings';
  
 /*
 * IMPORT STYLES
 */
-// import '../assets/css/bootstrap.css';
-// import '../styles/styles.scss';
-// import '../styles/headings.css';
+import '@asset/css/bootstrap.css';
+import '@style/styles.scss';
+import '@style/headings.css';
+// import 'Assets/css/bootstrap.css';
+// import '@space/styles/styles.scss';
+// import '@space/styles/headings.css';
 
 
 declare const ENV: string;

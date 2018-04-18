@@ -26,13 +26,15 @@
     ]
 
   },
-  "baseUrl": "./src",
+  "baseUrl": "src",
   "rootDirs": [
-      "./src",
-      "./config"
+      "src",
+      "config"
     ],
   "paths": {
-
+    "@space": ["app"],
+    "@asset": ["assets"],
+    "@style": ["styles"],
   },
   "awesomeTypescriptLoaderOptions": {
     "forkChecker": true,

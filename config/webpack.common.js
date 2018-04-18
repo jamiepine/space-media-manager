@@ -103,11 +103,17 @@ module.exports = function (options) {
        modules: [helpers.root('src'), helpers.root('node_modules')],
 
 
-      // RESOLVE ALIAS 
+      /* RESOLVE ALIAS
+       * This took two days to figure out  
+       * SOLUTION: https://github.com/s-panferov/awesome-typescript-loader/issues/240
+       */
       alias: {
+          "@space": 'app',
+          "@asset": 'assets',
+          "@style": 'styles'
+          // "@space/styles": 'styles'
 
-          Home: 'app/home'
-
+            // Home: path.resolve(__dirname, "src", "app", "home"),
             // '@space/home': resolve('app/home'),
             // '@space/home': path.join(__dirname, '../_global')
         },
